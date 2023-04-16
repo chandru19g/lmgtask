@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "958378649272",
+    "project_id": "lmgtask",
+    "storage_bucket": "lmgtask.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958378649272:android:8f34306b5cbda08e21f64d",
+        "android_client_info": {
+          "package_name": "com.chandru.lmgtask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "958378649272-9a9draut7vnh9qhonqlijso1i55jl263.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDz606o4wE0RTjaKdWBgI25tByexCNZcZo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "958378649272-9a9draut7vnh9qhonqlijso1i55jl263.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
